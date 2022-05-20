@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="action_try_again">Try again</string>
+    <string name="action_sort_by">Sort by</string>
+    <string name="action_filter_by_source">Filter by source</string>
+    <string name="action_filter_by_date">Filter by date</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="option_popularity">Popularity</string>
+    <string name="option_published_at">Published at</string>
+    <string name="action_go_to_favorite_screen">Go to Favorite news</string>
+    <string name="select_start_date">Select start date:</string>
+    <string name="select_end_date">Select end date:</string>
+</resources>
